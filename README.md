@@ -125,8 +125,8 @@ Dokumentacja
   * nacisnąć `Wprowadź dane`
   * Wypełnić pola
   * po wprowadzeniu należy nacisnąc przycisk `Zapisz dane`</br>
-  ~ ewentualne informacje zwrotną o dodaniu zobaczymy w oknie z logami</br>
-  ![alt text](image/add.png)</br>
+  ~ ewentualne informacje zwrotną o dodaniu zobaczymy w oknie z logami
+![alt text](image/add.png)
 10.Aby usunąc dane z bazy nalezy zaznaczyć interesujacy nas wiersz oraz nacisnąć przysk `Usuń wiersz`.
 11.Do wyświetlenia specjalnych zapytań należy wybrać z `Specjalne Zapytania` interesujące nas zapytanie.
 12.Jeżeli chcemy sprawdzić ile dana osoba popełniła przestępstw należy wybrać `id_osoby` która nas interesuje i nacisnąć `Otrzymaj Ilość Przestępstw`
